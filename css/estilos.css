@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/bordas-de-papel-esfarrapadas-dispostas_23-2147734468.jpg');
+    background-size: auto 100vh; 
+    font-family:"Share Tech Mono", monospace;
+    height: 100vh;
+  } 
+  
+  .menu {
+    background-color: #EFBCD5;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    color: #392F5A;
+    text-decoration: none; 
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    color: #392F5A;
+    text-align: center;
+    font-style: italic;
+   }
+  
+  .site-subtitle {
+    font-style: italic;
+   }
